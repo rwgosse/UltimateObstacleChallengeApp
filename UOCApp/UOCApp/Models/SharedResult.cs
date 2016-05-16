@@ -1,16 +1,15 @@
 ﻿using System;
-using System.Net.Http;
 using System.Collections.Generic;
-using Xamarin.Forms;
-using System.Collections.ObjectModel;
-using System.Linq;
 using System.Text;
+using SQLite;
+using System.Net.Http;
 using System.Threading.Tasks;
-using UOCApp.Models;
-
+using Xamarin.Forms;
+using System.Linq;
 
 namespace UOCApp
 {
+
 	public class SharedResult
 	{
 
@@ -112,5 +111,5 @@ namespace UOCApp
 
 
 }
-}
 
+}
